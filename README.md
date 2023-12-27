@@ -33,7 +33,7 @@ Im Johnny "[Domestico](https://www.proguides.com/coach/domestico)" Trinh, full-s
 
 | Name | Hackathon | Certificate |
 | :---: | :---: | :---: |
-|❄️ 12 Days of Quizmas - Secret Santa Hackathon | <a href="https://github.com/ogc1231/festive-quiz-game"><img src="https://github.com/ogc1231/festive-quiz-game/blob/main/documentation/readme/quiz-game-responsiveness.png" width=600px></a> | <a href="https://eu.badgr.com/public/assertions/bPUQP8YMROW-7xr_Ny_HJg"><img src="https://eu.badgr.com/public/assertions/bPUQP8YMROW-7xr_Ny_HJg/image"></a> |
+|❄️ 12 Days of Quizmas - [Secret Santa Hackathon](https://hackathon.codeinstitute.net/hackathon/public/40/) | <a href="https://github.com/ogc1231/festive-quiz-game"><img src="https://github.com/ogc1231/festive-quiz-game/blob/main/documentation/readme/quiz-game-responsiveness.png" width=600px></a> | <a href="https://eu.badgr.com/public/assertions/bPUQP8YMROW-7xr_Ny_HJg"><img src="https://eu.badgr.com/public/assertions/bPUQP8YMROW-7xr_Ny_HJg/image"></a> |
 
 <!--
 **JohnnySonTrinh/JohnnySonTrinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
