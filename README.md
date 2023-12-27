@@ -1,5 +1,33 @@
 ### Hi there 👋
 
+<h2 align='center'> &#x1F4BC; Projects</h2>
+
+- #### [A GAMERS PORTFOLIO SITE](https://github.com/JohnnySonTrinh/a-gamers-portfolio-site)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/JohnnySonTrinh/a-gamers-portfolio-site"><img width="900" src="https://github.com/JohnnySonTrinh/a-gamers-portfolio-site/blob/main/documentation/readme/preview.png" alt="a-gamers-portfolio Prewview"></a>
+    </td>
+    <td>
+      This project is more than just a portfolio; it's a vibrant showcase of gaming passion, skills, and experiences.
+    </td>
+  </tr>
+</table>
+
+
+- #### [VALORANT TIC TAC TACTICS](https://github.com/JohnnySonTrinh/valorant-tic-tac-tactics)
+<table>
+  <tr>
+    <td>
+     Valorant Tic-Tac-Tactics combines the strategic gameplay of Valorant with the simplicity and charm of Tic-Tac-Toe. This project aims to provide a fun, engaging, and interactive gaming experience for both Valorant enthusiasts and casual gamers alike.
+    </td>
+    <td>
+      <a href="https://github.com/JohnnySonTrinh/valorant-tic-tac-tactics"><img width="900" src="https://github.com/JohnnySonTrinh/valorant-tic-tac-tactics/blob/main/documentation/readme/mockup.png" alt="Tic Tac Tactics Responsive Mockup"></a>
+    </td>
+  </tr>
+</table>
+
+
 <h2 align='center'> &#128187; Hackathons</h2>
 
 | Name | Hackathon | Certificate |
