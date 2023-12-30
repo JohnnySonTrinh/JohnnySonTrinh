@@ -1,5 +1,5 @@
 ### Hi there 👋
-Im Johnny "[Domestico](https://www.proguides.com/coach/domestico)" Trinh, full-stack development student at [Code Institute](https://codeinstitute.net/), I'm immersing myself in the fascinating world of coding, where every challenge is a new opportunity to learn and grow. When I'm not busy unraveling the mysteries of web development, you'll find me in Valorant, strategizing and outsmarting opponents. Away from the keyboard, my loyal dog is my constant companion, reminding me that life is not just about bytes and breakpoints, but also about play and companionship. Together, we make an unbeatable team in both the digital and real worlds.
+Im Johnny Trinh, full-stack development student at [Code Institute](https://codeinstitute.net/), I'm immersing myself in the fascinating world of coding, where every challenge is a new opportunity to learn and grow. When I'm not busy unraveling the mysteries of web development, you'll find me in Valorant, strategizing and outsmarting opponents. Away from the keyboard, my loyal dog is my constant companion, reminding me that life is not just about bytes and breakpoints, but also about play and companionship. Together, we make an unbeatable team in both the digital and real worlds.
 
 <h2 align='center'> &#x1F4BC; Projects</h2>
 
