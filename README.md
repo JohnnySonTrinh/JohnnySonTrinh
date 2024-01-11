@@ -15,7 +15,6 @@ Im Johnny Trinh, full-stack development student at [Code Institute](https://code
   </tr>
 </table>
 
-
 - #### [VALORANT TIC TAC TACTICS](https://github.com/JohnnySonTrinh/valorant-tic-tac-tactics)
 <table>
   <tr>
@@ -28,6 +27,17 @@ Im Johnny Trinh, full-stack development student at [Code Institute](https://code
   </tr>
 </table>
 
+- #### [Snake](https://github.com/JohnnySonTrinh/snake-game)
+<table>
+  <tr>
+    <td>
+     This is a simple terminal based snake game implemented in Python.
+    </td>
+    <td>
+      <a href="https://github.com/JohnnySonTrinh/snake-game"><img width="900" src="https://github.com/JohnnySonTrinh/snake-game/blob/main/documentation/mockup.png" alt="Snake Mockup"></a>
+    </td>
+  </tr>
+</table>
 
 <h2 align='center'> &#128187; Hackathons</h2>
 
