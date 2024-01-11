@@ -27,7 +27,7 @@ Im Johnny Trinh, full-stack development student at [Code Institute](https://code
   </tr>
 </table>
 
-- #### [Snake](https://github.com/JohnnySonTrinh/snake-game)
+- #### [SNAKE](https://github.com/JohnnySonTrinh/snake-game)
 <table>
   <tr>
     <td>
