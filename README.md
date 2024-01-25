@@ -8,7 +8,6 @@ Im Johnny Trinh, full-stack development student at [Code Institute](https://code
   <tr>
     <td>
       <a href="https://github.com/JohnnySonTrinh/a-gamers-portfolio-site"><img width="900" src="https://github.com/JohnnySonTrinh/a-gamers-portfolio-site/blob/main/documentation/readme/preview.png" alt="a-gamers-portfolio Prewview"></a>
-    </td>
     <td>
       This project is more than just a portfolio; it's a vibrant showcase of gaming passion, skills, and experiences.
     </td>
@@ -44,7 +43,7 @@ Im Johnny Trinh, full-stack development student at [Code Institute](https://code
 | Name | Hackathon | Certificate |
 | :---: | :---: | :---: |
 |❄️ 12 Days of Quizmas - [Secret Santa Hackathon](https://hackathon.codeinstitute.net/hackathon/public/40/) | <a href="https://github.com/ogc1231/festive-quiz-game"><img src="https://github.com/ogc1231/festive-quiz-game/blob/main/documentation/readme/quiz-game-responsiveness.png" width=600px></a> | <a href="https://eu.badgr.com/public/assertions/bPUQP8YMROW-7xr_Ny_HJg"><img src="https://eu.badgr.com/public/assertions/bPUQP8YMROW-7xr_Ny_HJg/image"></a> |
-|💰 Fund Frontier - [Budget Busters: New Year, New Numbers!](https://hackathon.codeinstitute.net/hackathon/41/) | <a href="https://github.com/sean-meade/fund-frontier"><img src="https://camo.githubusercontent.com/e4a17888bbceff55e2586b14b4a1e7d729087c3099b1f356f6cb683ae7f58b1f/68747470733a2f2f692e696d6775722e636f6d2f5058557961764a2e706e67" width=600px></a> | <a href="https://eu.badgr.com/public/assertions/bPUQP8YMROW-7xr_Ny_HJg"><img src="https://eu.badgr.com/public/assertions/bPUQP8YMROW-7xr_Ny_HJg/image"></a> |
+|💰 Fund Frontier - [Budget Busters: New Year, New Numbers!](https://hackathon.codeinstitute.net/hackathon/41/) | <a href="https://github.com/sean-meade/fund-frontier"><img src="https://camo.githubusercontent.com/e4a17888bbceff55e2586b14b4a1e7d729087c3099b1f356f6cb683ae7f58b1f/68747470733a2f2f692e696d6775722e636f6d2f5058557961764a2e706e67" width=600px></a> | <a href="https://api.eu.badgr.io/public/assertions/VToY0jkeSC20POFhcJ6Qtg"><img src="https://api.eu.badgr.io/public/assertions/JYRFGMw7QPeCHLeS-EPK2g/image"></a> |
 
 <!--
 **JohnnySonTrinh/JohnnySonTrinh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
