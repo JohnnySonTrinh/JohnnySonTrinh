@@ -3,13 +3,13 @@ Im Johnny Trinh, full-stack development student at [Code Institute](https://code
 
 <h2 align='center'> &#x1F4BC; Projects</h2>
 
-- #### [A GAMERS PORTFOLIO SITE](https://github.com/JohnnySonTrinh/a-gamers-portfolio-site)
+- #### [Portfolio](https://github.com/JohnnySonTrinh/react-portfolio)
 <table>
   <tr>
     <td>
-      <a href="https://github.com/JohnnySonTrinh/a-gamers-portfolio-site"><img width="900" src="https://github.com/JohnnySonTrinh/a-gamers-portfolio-site/blob/main/documentation/readme/preview.png" alt="a-gamers-portfolio Prewview"></a>
+      <a href="https://github.com/JohnnySonTrinh/react-portfolio"><img width="900" src="https://i.imgur.com/4z276Ex.png" alt="Portfolio Preview"></a>
     <td>
-      This project is more than just a portfolio; it's a vibrant showcase of gaming passion, skills, and experiences.
+      Mass Effect Theme Portfolio.
     </td>
   </tr>
 </table>
@@ -22,6 +22,17 @@ Im Johnny Trinh, full-stack development student at [Code Institute](https://code
     </td>
     <td>
       <a href="https://github.com/JohnnySonTrinh/valorant-tic-tac-tactics"><img width="900" src="https://github.com/JohnnySonTrinh/valorant-tic-tac-tactics/blob/main/documentation/readme/mockup.png" alt="Tic Tac Tactics Responsive Mockup"></a>
+    </td>
+  </tr>
+</table>
+
+- #### [A GAMERS PORTFOLIO SITE](https://github.com/JohnnySonTrinh/a-gamers-portfolio-site)
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/JohnnySonTrinh/a-gamers-portfolio-site"><img width="900" src="https://github.com/JohnnySonTrinh/a-gamers-portfolio-site/blob/main/documentation/readme/preview.png" alt="a-gamers-portfolio Prewview"></a>
+    <td>
+      This project is more than just a portfolio; it's a vibrant showcase of gaming passion, skills, and experiences.
     </td>
   </tr>
 </table>
