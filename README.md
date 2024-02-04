@@ -3,7 +3,7 @@ Im Johnny Trinh, full-stack development student at [Code Institute](https://code
 
 <h2 align='center'> &#x1F4BC; Projects</h2>
 
-- #### [Portfolio](https://github.com/JohnnySonTrinh/react-portfolio)
+- #### [PORTFOLIO](https://github.com/JohnnySonTrinh/react-portfolio)
 <table>
   <tr>
     <td>
