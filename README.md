@@ -9,7 +9,7 @@ Im Johnny Trinh, full-stack development student at [Code Institute](https://code
     <td>
       <a href="https://github.com/JohnnySonTrinh/react-portfolio"><img width="900" src="https://i.imgur.com/4z276Ex.png" alt="Portfolio Preview"></a>
     <td>
-      Mass Effect Theme Portfolio. Designed to showcase the professional profile, visual metaphor that borrows from the skill trees commonly found in video games, reinforcing the user's gaming background.
+      Halo Theme Portfolio. Designed to showcase the professional profile, visual metaphor that borrows from the skill trees commonly found in video games, reinforcing the user's gaming background.
     </td>
   </tr>
 </table>
@@ -21,7 +21,7 @@ Im Johnny Trinh, full-stack development student at [Code Institute](https://code
      Valorant Tic-Tac-Tactics combines the strategic gameplay of Valorant with the simplicity and charm of Tic-Tac-Toe. This project aims to provide a fun, engaging, and interactive gaming experience for both Valorant enthusiasts and casual gamers alike.
     </td>
     <td>
-      <a href="https://github.com/JohnnySonTrinh/valorant-tic-tac-tactics"><img width="900" src="https://github.com/JohnnySonTrinh/react-portfolio/blob/main/src/assets/project-1.png?raw=true" alt="Tic Tac Tactics Responsive Mockup"></a>
+      <a href="https://github.com/JohnnySonTrinh/valorant-tic-tac-tactics"><img width="900" src="https://github.com/JohnnySonTrinh/react-portfolio/blob/main/src/assets/project-1.webp?raw=true" alt="Tic Tac Tactics Responsive Mockup"></a>
     </td>
   </tr>
 </table>
