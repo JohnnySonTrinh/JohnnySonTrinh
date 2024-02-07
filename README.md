@@ -7,7 +7,7 @@ Im Johnny Trinh, full-stack development student at [Code Institute](https://code
 <table>
   <tr>
     <td>
-      <a href="https://github.com/JohnnySonTrinh/react-portfolio"><img width="900" src="https://i.imgur.com/4z276Ex.png" alt="Portfolio Preview"></a>
+      <a href="https://github.com/JohnnySonTrinh/react-portfolio"><img width="900" src="https://github.com/JohnnySonTrinh/JohnnySonTrinh/blob/main/assets/react-project.png?raw=true" alt="Portfolio Preview"></a>
     <td>
       Halo Theme Portfolio. Designed to showcase the professional profile, visual metaphor that borrows from the skill trees commonly found in video games, reinforcing the user's gaming background.
     </td>
