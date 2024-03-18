@@ -37,6 +37,18 @@ Im Johnny Trinh, full-stack development student at [Code Institute](https://code
   </tr>
 </table>
 
+- #### [GAMER THREADS](https://github.com/JohnnySonTrinh/ebuddies)
+<table>
+  <tr>
+    <td>
+     Ebuddies community platform designed to connect gamers with shared interests and hobbies. Our mission is to create a welcoming space where users can find and interact with like-minded peers, share experiences, and build meaningful connections.
+    </td>
+    <td>
+      <a href="https://github.com/JohnnySonTrinh/ebuddies"><img width="900" src="https://github.com/JohnnySonTrinh/ebuddies/blob/main/documentation/mockup.png?raw=true" alt="Ebuddies Mockup"></a>
+    </td>
+  </tr>
+</table>
+
 - #### [SNAKE](https://github.com/JohnnySonTrinh/snake-game)
 <table>
   <tr>
