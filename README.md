@@ -126,6 +126,18 @@
   </tr>
 </table>
 
+- #### [STAR REVIEW](https://github.com/JohnnySonTrinh/review-api)
+
+<table>
+  <tr>
+    <td>
+      <a href="https://github.com/JohnnySonTrinh/review-api"><img width="900" src="https://github.com/JohnnySonTrinh/review-app/raw/main/documentation/mockup.png" alt="a-gamers-portfolio Prewview"></a>
+    <td>
+      Star Review is platform for developers to collaborate, review, and enhance code quality through seamless peer feedback. Whether you're a beginner seeking guidance or an experienced coder looking to refine your skills.
+    </td>
+  </tr>
+</table>
+
 - #### [SNAKE](https://github.com/JohnnySonTrinh/snake-game)
 <table>
   <tr>
