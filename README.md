@@ -2,13 +2,15 @@
 
 - 🌱 I’m currently learning **Typescript**
 - 📖 Full-stack development student at [Code Institute](https://codeinstitute.net/)
+- 🎨 My Website <a href="johnnytrinh.se">Portfolio</a>
+
 <br>
 <img align="center" colspan="2" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnySonTrinh&layout=compact&theme=dark" alt=JohnnySonTrinh />
 <h4>How to reach me</h4>
 <div> 
   <a href="https://www.linkedin.com/in/johnny-trinh-dev" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
   <a href="https://github.com/JohnnySonTrinh" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" target="_blank"></a>
-  <a href = "mailto:johnny.trinh@hotmail.se"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=Windows" target="_blank"></a> 
+  <!-- <a href = "mailto:johnny.trinh@hotmail.se"><img src="https://img.shields.io/badge/-Outlook-%23333?style=for-the-badge&logo=Windows" target="_blank"></a>  -->
 </div>
 
 ##
@@ -74,6 +76,9 @@
   </a>
 </p>
 
+<!-- <details>
+
+ <summary>&#x1F4BC; Projects</summary>
 <h2 align='center'> &#x1F4BC; Projects</h2>
 
 - #### [PORTFOLIO](https://github.com/JohnnySonTrinh/react-portfolio)
@@ -158,3 +163,5 @@
 |  💰 Fund Frontier - [Budget Busters: New Year, New Numbers!](https://hackathon.codeinstitute.net/hackathon/public/41/)  | <a href="https://github.com/sean-meade/fund-frontier"><img src="https://camo.githubusercontent.com/bd9c4bf44627aeae11a98b14c035ffe33cd0642cb3cebfd6ee63dfc1e4d9c60a/68747470733a2f2f692e696d6775722e636f6d2f4c31335a585a6d2e706e67" width=600px></a> | <a href="https://api.eu.badgr.io/public/assertions/VToY0jkeSC20POFhcJ6Qtg"><img src="https://api.eu.badgr.io/public/assertions/JYRFGMw7QPeCHLeS-EPK2g/image"></a> |
 |          💘 Cupid's Helpers - [Cupid's Code Quest!](https://hackathon.codeinstitute.net/hackathon/public/42/)           |                                                                   <a href="https://github.com/lucia2007/love-letter-generator"><img src="assets/hackathon-3.png" width=600px></a>                                                                    |  <a href="https://eu.badgr.com/public/assertions/33YSuTwmTp-pSLCt9KS_xA"><img src="https://api.eu.badgr.io/public/assertions/JYRFGMw7QPeCHLeS-EPK2g/image"></a>   |
 | 🌌 The Sabersmiths - [Code Wars: The Hackathon Strikes Back!](https://hackathon.codeinstitute.net/hackathon/public/47/) |                           <a href="https://github.com/EmilionR/jedi-blades-hackathon"><img src="https://github.com/EmilionR/jedi-blades-hackathon/raw/main/static/images/readme_images/landing-page.png" width=600px></a>                            | <a href="https://api.eu.badgr.io/public/assertions/e_XL7UKbSjeJgbO0YkLwMQ"><img src="https://api.eu.badgr.io/public/assertions/JYRFGMw7QPeCHLeS-EPK2g/image"></a> |
+
+</details> -->
