@@ -2,7 +2,7 @@
 
 - 🌱 I’m currently learning **Typescript**
 - 📖 Full-stack development student at [Code Institute](https://codeinstitute.net/)
-- 🎨 My Website <a href="johnnytrinh.se">Portfolio</a>
+- 🎨 My Website <a href="https://johnnytrinh.se">Portfolio</a>
 
 <br>
 <img align="center" colspan="2" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnySonTrinh&layout=compact&theme=dark" alt=JohnnySonTrinh />
