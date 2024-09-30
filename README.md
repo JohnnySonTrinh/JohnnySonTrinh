@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Johnny</h1>
 
 - 🌱 I’m currently learning **Typescript**
-- 📖 Full-stack development student at [Code Institute](https://codeinstitute.net/)
+- 📖 Full-stack development student at **Code Institute**
 - 🎨 My Website <a href="https://johnnytrinh.se">Portfolio</a>
 
 <br>
