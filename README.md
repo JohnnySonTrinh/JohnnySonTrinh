@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Johnny</h1>
 
 - 🎓 Recently graduated with a **Diploma in Full Stack Software Development** from **Code Institute** ([View Credential](https://www.credential.net/44c2af17-4f84-416c-9d24-32b621b9b130))
-- 🌱 Currently diving deeper into **TypeScript** and enhancing my front-end skills
+- 🌱 I’m currently exploring game development and learning the fundamentals with Excalibur.js
 - 🎨 Check out my [Portfolio](https://johnnytrinh.se) to see my projects and recent work
 
 <br>
