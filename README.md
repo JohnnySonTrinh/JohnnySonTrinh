@@ -2,7 +2,7 @@
 
 - 🎨 Check out my [Portfolio](https://johnnytrinh.se) to see my projects and recent work
 - 🎓 Recently graduated with a **Diploma in Full Stack Software Development** from **Code Institute** ([View Credential](https://www.credential.net/44c2af17-4f84-416c-9d24-32b621b9b130))
-- 🌱 I’m currently exploring game development and learning the fundamentals with Excalibur.js
+- 🌱 I'm currently deepening my knowledge of TypeScript and JavaScript
 
 <br>
 <img align="center" colspan="2" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnySonTrinh&layout=compact&theme=dark" alt="JohnnySonTrinh" />
