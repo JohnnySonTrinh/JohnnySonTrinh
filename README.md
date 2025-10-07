@@ -1,7 +1,7 @@
 <h1 align="center">Hi there 👋, I'm Johnny</h1>
 
 - 🎨 Check out my [Portfolio](https://johnnytrinh.se) to see my projects and recent work
-- 🌱 I'm currently deepening my knowledge of C# and .NET
+- 🌱 I'm currently deepening my knowledge of Typescript
 
 <br>
 <img align="center" colspan="2" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JohnnySonTrinh&layout=compact&theme=dark" alt="JohnnySonTrinh" />
